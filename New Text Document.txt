@@ -1,0 +1,9 @@
+Git Using
+
+1 mkdir Mumbaigit
+2 ls
+3 cd Mumbai git
+4 git init
+5 cat > Mumbai1(Write Code in it)
+ catrl+d
+6 Git Stauts (to check status)
